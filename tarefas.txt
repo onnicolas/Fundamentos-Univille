@@ -1,3 +1,5 @@
 Estudar Github
 Fazer Commits
 Aprender sobre branches
+Aprender Pull Request
+Trabalhar em equipe
